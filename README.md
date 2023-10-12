@@ -1,35 +1,17 @@
-<?php
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-namespace AshBaker;
 
-class About extends Me
-{
-    public function getCurrentWorkplace(): array
-    {
-        return [
-            'workplace' => [
-                'company' => 'Qquicker',
-                'position' => 'Founder'         
-            ]
-        ];
-    }
+class SoftwareEngineer:
 
-    public function getDailyKnowledge(): array
-    {
-        return [
-            Php::class,
-            Javascript::class,
-            Laravel::class,
-            Vuejs::class,
-            Angular::class,
-            ReactNative::class,
-            TailwindCss::class,
-            Aws::class,
-        ];
-    }
+    def __init__(self):
+        self.name = "Zhenye Na"
+        self.role = "Software Engineer"
+        self.language_spoken = ["zh_CN", "en_US"]
 
-    public function getFutureGoal(): string
-    {
-        return 'To contribute to open source.';
-    }
-}
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = SoftwareEngineer()
+me.say_hi()
