@@ -1,6 +1,9 @@
 <h1>Hello World, I'm NeapolT, a Front-End Junior Developer that has just started.</h1>
 ## About MySelf
-<img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/Fire.gif" />
+
+Hello, this is a testing.
+
+<img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/Fire.gif"/>
 
 ## Skills
 
