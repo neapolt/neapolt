@@ -1,5 +1,5 @@
 <h1>Hello World, I'm NeapolT, a Front-End Junior Developer that has just started.</h1>
-# About MySelf
+## About MySelf
 
 Hello, this is a testing.
 
@@ -7,7 +7,7 @@ Hello, this is a testing.
 
 
 
-### Software
+## Software
 
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 
