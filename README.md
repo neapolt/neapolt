@@ -2,7 +2,7 @@
 
 ### Skills
 
-HTML/CSS.
+HTML/CSS. (I'm still studying)
 
 ## Software
 
