@@ -2,7 +2,8 @@
 
 ### Skills
 
-HTML/CSS. (I'm still studying)
+HTML/CSS.
+Currently studying Python
 
 ## Software
 
