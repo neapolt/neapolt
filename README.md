@@ -23,9 +23,13 @@
     </style>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NeaPage</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="logo.png">
 </head>
 <body>
     <div class="ascii-art">
+        <pre>
                                                                          ,----, 
             ,--.                                                       ,    .`| 
           ,--.'|                                             ,--,    ,`   .'  : 
@@ -41,5 +45,11 @@
    '   : |      |   :    |;  :   .'   \|   | :     `----'  |  ,   /  '---'      
    ;   |.'       \   \  / |  ,     .-./`---'.|              ---`-'              
    '---'          `----'   `--`---'      `---`                                  
+                                                                               
+        </pre>
+    </div>
+    <div class="text">
+        <p>A random python coder.</p>
+    </div>
 </body>
 </html>
