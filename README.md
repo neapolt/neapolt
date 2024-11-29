@@ -1,9 +1,7 @@
-Mastering C++
-Contact me in discord: 1v0k
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+# Welcome to My GitHub! 👋
+- Hello! I'm Guilherme aka 1v0k and I love cats and to code.
+- Currently learning C++
+- Contact me via discord: 1v0k
 
-
-
-<!--
-Later
--->
+## 🐱 Enjoy Some Cat Fun
+![Cat Gif](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
