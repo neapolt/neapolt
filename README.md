@@ -1,4 +1,4 @@
 - Hello! I'm Guilherme aka 1v0k and I love cats
-- Currently learning C++
+- Currently learning Lua/u
 - Projects: CatTools (inactive for now)
 - Contact me via discord: 1v0k
