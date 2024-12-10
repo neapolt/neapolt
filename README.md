@@ -1,4 +1,4 @@
 - Hello! I'm Guilherme aka 1v0k and I love cats
 - Currently learning Lua
-- Projects: CatTools (inactive for now)
+- Projects: nil
 - Contact me: 1v0k(discord)
