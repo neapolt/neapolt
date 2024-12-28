@@ -1,4 +1,4 @@
-- Hello! I'm 1v0k, a software & reverse engineer enthusiast.
+- Hello! I'm 1v0k, a software enthusiast.
 - Skills: Lua / currently learning C++
 - Projects: Null
 - Contact me: 1v0k(discord)
